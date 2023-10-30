@@ -4,3 +4,6 @@
 
 // merge w/o rebase
 // 1
+
+// merge-squash
+// 1
